@@ -59,3 +59,7 @@ Next Steps:
 Future:
 1) Reinstall Arch Linux
 2) Use LightDM display manager + KDE Plasma desktop environment + Thunar File manager
+
+Arch Linux is fully set up and configured with KDE and the rest. Currently set up with KDE connect and many commands related to media management.
+
+The next steps after this are to now set up the laptop to remote into the Ubuntu server VM on my workstation to demonstrate remote server management principles.
